@@ -1,8 +1,4 @@
-~~# US-Migration~~
-# Lab1-Migration
 # Migration and the US
-_Why does America become as the largest immigrant country? The US currently has the largest number of foreign-born residents in the world and the highest rate of immigrant over the world from the last 40 years til now which becomes one of the most humanity coutries accpecting most immigrant cases from war, povity to family reunion._
-
 ![](./image.jpg)
 
 
@@ -17,7 +13,7 @@ _Why does America become as the largest immigrant country? The US currently has 
 
 
 ## Section 2: Migration Occurs at Multiple Spatial Scales
-### 1. Scales of migration
+###1. Scales of migration
 - Local (e.g. moving within a city – no change of job or social
 networks required)
 - Regional (e.g. crossing county lines within a state – sufficient
@@ -26,26 +22,25 @@ distance to break networks, change job location)
 - International (e.g. from one country to another)
 - Most moves are short distance: local, regional
 
-### 2. But we focus on international immigrant to the US
+###2. But we focus on international immigrant to the US
 - are “aliens” admitted to the United States for lawful permanent residence.
 - they may be issued immigrant visas overseas by the Department of State or adjusted to permanent resident status in the United States by US Bureau of CIS.
 
-### 3. Defind of immigration 
+###3. Defind of immigration 
 - defined as the number of immigrants arriving during a
 specified period of time, such as a year or a decade
 - going beyond official definitions: anybody in the US for > a certain period of time e.g. a temp worker on an H1-B could be in the country for 10 years before adjusting status to lawful permanent residence
 
 ## Section 3: Reasons of immigration and its flow
 
-### 1. Those who have moved because of:
+###1. Those who have moved because of:
 - jobs/opportunity
 - they are “tied” to those seeking jobs/opportunity
 - persecution, war, famine, poverty, disaster
 - not on those whose relocation to the US was because of enslavement
-  
-<sub> An emphasis on immigration over the last 50 years but also an engagement with prior immigration and reactions to it </sub>
+ An emphasis on immigration over the last 50 years but also an engagement with prior immigration and reactions to it
 
-### 2. Immigrant stock and flow
+###2. Immigrant stock and flow
 ![](./r.png)
 - The inflow of legal immigrants (those issued legal permanent residence) is about 1m per
 year.
